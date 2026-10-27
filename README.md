@@ -56,10 +56,11 @@ Labels: 12 distinct labels covering HS types, targets, and severity levels.
 ## 🚀 Performance Results
 The experiments concluded that the GLoVe embedding combined with a GRU layer in the decoder yielded the highest performance:
 
-Metric	Average Score
-Hamming Loss	0.005481
-Micro-F1 Score	0.993527
-Accuracy	0.994353
+      Metric	         Average Score
+      Hamming Loss	   0.005481
+      Micro-F1 Score   	0.993527
+      Accuracy	         0.994353
+
 Key Finding: The addition of a GRU layer significantly improved the model's ability to capture dependencies between labels compared to the standard SGM.
 
 
