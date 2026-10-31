@@ -18,7 +18,7 @@ Hate speech on social media is a complex issue where a single post often contain
 
 # Key Features:
 - Architecture: Sequential Generation Model (SGM).
-<img width="637" height="404" alt="image" src="https://github.com/user-attachments/assets/5b3312a2-c0eb-4e21-b210-9bd93f4b1fc7" />
+<img width="650" height="404" alt="image" src="https://github.com/user-attachments/assets/5b3312a2-c0eb-4e21-b210-9bd93f4b1fc7" />
 
 - Encoder: Bidirectional Long Short-Term Memory (Bi-LSTM).
 
