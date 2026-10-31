@@ -1,4 +1,12 @@
 # Hate-Speech-Classification-on-Twitter
+
+<p align="center">
+      <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+      <img src="https://img.shields.io/badge/Framework-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/Framework-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+</p>
+
 Multi-Label Classification using Sequential Generation Model with Gated Recurrent Unit and FastText on Hate-Speech Text on the Twitter Platform.
 
 This repository contains the implementation of a deep learning-based system designed to classify Indonesian hate speech on Twitter into multiple labels. The project utilizes a Sequential Generation Model (SGM) architecture, enhanced with Gated Recurrent Units (GRU) and evaluated using GLoVe and FastText word embeddings.
