@@ -168,14 +168,14 @@ The project is modularized, allowing individual components of the machine learni
 For example, the following code demonstrates how to load the original dataset, stopwords, and slang dictionary before preprocessing Indonesian text.
 
 ```python
-from hate_speech_function_package.data_preparation import (
+from project_hate_speech_c14200138.data_preparation import (
     load_original_dataset,
     load_stopwords,
     load_slang_dictionary,
     split_dataset
 )
 
-from hate_speech_function_package.preprocessing import preprocess
+from project_hate_speech_c14200138.preprocessing import preprocess
 
 # Update these paths to match your local files.
 df = load_original_dataset("/data/re_dataset.csv")
